@@ -10,3 +10,4 @@ The bot interacts with users in a conversational manner, prompting them for clar
 The bot maintains a JSON file as its knowledge base, allowing it to retain learned information across sessions.
 
 The bot can be cutomized to perform various tasks
+you can message or train the model in private messages not in the server chat.
